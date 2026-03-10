@@ -1,0 +1,91 @@
+id,name,type,description,source_url
+1,iran,country,middle eastern nation involved in military conflict and subject to maximum pressure sanctions,https://www.thomsonreuters.com/en-us/posts/corporates/iran-war-economic-business-impact/
+2,usa,country,north american nation imposing comprehensive sanctions and authorizing military operations,https://home.treasury.gov/news/press-releases/sb0322
+3,israel,country,middle eastern nation in conflict with iran and developing defense jvs with india,https://www.eurasiareview.com/06032026-indias-calculated-diplomacy-in-the-west-asia-crisis-oped/
+4,india,country,south asian nation heavily dependent on middle east energy and gcc remittances,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+5,china,country,east asian nation acting as primary buyer of illicit iranian crude oil via teapot refineries,https://www.uscc.gov/research/chinas-facilitation-sanctions-and-export-control-evasion
+6,russia,country,eurasian nation supplying discounted crude to india and pivoting trade to gcc,https://russiaspivottoasia.com/russias-iran-alternatives-middle-eastern-strategic-investments-trade-transport-corridors/
+7,saudi_arabia,country,gcc nation supplying crude to india and developing vision 2030 neom project,https://www.jagranjosh.com/general-knowledge/list-of-the-largest-crude-oil-supplier-countries-to-india-1820001146-1
+8,uae,country,gcc nation acting as major trade hub for indian corporations and shadow fleet fronts,https://economymiddleeast.com/news/13851-indian-companies-join-dubai-chamber-in-9m-2025/
+9,qatar,country,gcc nation and world's leading supplier of liquefied natural gas,https://www.indrastra.com/2026/03/strait-of-hormuz-on-brink-de-facto.html
+10,oman,country,gcc nation integrating into russia's trade network and hosting shadow fleet fronts,https://ofac.treasury.gov/recent-actions/20260123
+11,pakistan,country,south asian nation hosting gwadar port and experiencing fuel inflation,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+12,bangladesh,country,south asian nation facing lng shortages and importing illicit lpg,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+13,sri_lanka,country,south asian nation experiencing panic buying due to fuel supply fears,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+14,japan,country,east asian nation highly reliant on middle east crude considering reserve releases,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+15,south_korea,country,east asian nation facing semiconductor competitiveness risks from energy costs,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+16,yemen,country,middle eastern nation base for houthi militants disrupting red sea shipping,https://www.hrw.org/news/2025/07/23/yemen-houthis-attacks-on-cargo-ships-apparent-war-crimes
+17,uk,country,european nation imposing sanctions on maritime insurance providers,https://www.insurancejournal.com/news/international/2026/02/24/859374.htm
+18,strait_of_hormuz,location,vital maritime chokepoint handling one fifth of global oil flows,https://timesofindia.indiatimes.com/business/india-business/us-iran-war-sends-shockwaves-most-crude-via-strait-of-hormuz-heads-to-china-india-how-vulnerable-are-they-after-closure/articleshow/129020947.cms
+19,bab_el_mandeb,location,strategic red sea strait targeted by houthi militants,https://trendsresearch.org/insight/reshaping-the-india-middle-east-europe-economic-corridor-new-challenges-old-vulnerabilities/
+20,suez_canal,location,major shipping corridor bypassed due to red sea attacks,https://www.financialexpress.com/business/news/middle-east-turns-into-a-war-zone-from-global-oil-supply-chain-to-bab-el-mandeb-strait-whats-at-stake/4158408/
+21,chabahar_port,location,iranian port developed by india for central asian connectivity,https://archive-yaleglobal.yale.edu/content/tale-two-ports
+22,gwadar_port,location,pakistani port developed by china under the belt and road initiative,https://archive-yaleglobal.yale.edu/content/tale-two-ports
+23,neom,location,mega smart city development project in saudi arabia,https://en.wikipedia.org/wiki/Neom
+24,ras_tanura,location,major saudi aramco refinery and export terminal,https://www.indrastra.com/2026/03/strait-of-hormuz-on-brink-de-facto.html
+25,ras_laffan,location,qatarenergy lng production facility,https://www.indrastra.com/2026/03/strait-of-hormuz-on-brink-de-facto.html
+26,jebel_ali_port,location,major logistics hub in the uae managed by dp world,https://www.automotivelogistics.media/supply-chain/iran-conflict-threatens-key-shipping-routes-in-the-middle-east-shippers-halt-operations-reroute-vessels-and-introduce-surcharges/2616951
+27,ofac,organization,us treasury office of foreign assets control administering sanctions,https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions
+28,irgc,organization,islamic revolutionary guard corps coordinating illicit finance and weapons,https://home.treasury.gov/news/press-releases/jy0443
+29,irgc_qf,organization,qods force involved in proxy support and oil smuggling,https://home.treasury.gov/news/press-releases/sm767
+30,modafl,organization,iranian ministry of defense and armed forces logistics,https://home.treasury.gov/news/press-releases/jy2220
+31,houthis,organization,yemen-based militant group attacking commercial shipping,https://www.hrw.org/news/2025/07/23/yemen-houthis-attacks-on-cargo-ships-apparent-war-crimes
+32,imec,organization,india-middle east-europe economic corridor,https://trendsresearch.org/insight/reshaping-the-india-middle-east-europe-economic-corridor-new-challenges-old-vulnerabilities/
+33,instc,organization,international north-south transport corridor,https://www.middleeastmonitor.com/20260213-imec-vs-instc-the-emerging-battle-over-middle-eastern-energy-corridors/
+34,crude_oil,resource,primary global energy commodity disrupted by dual chokepoint crisis,https://timesofindia.indiatimes.com/business/india-business/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-indias-economy-sector-wise-impact-explained/articleshow/129098557.cms
+35,lng,resource,liquefied natural gas heavily imported by india from qatar,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+36,lpg,resource,liquefied petroleum gas heavily imported by india for household and industrial use,https://timesofindia.indiatimes.com/business/india-business/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-indias-economy-sector-wise-impact-explained/articleshow/129098557.cms
+37,fertilizers,resource,agricultural input imported by india from the middle east,https://timesofindia.indiatimes.com/business/india-business/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-indias-economy-sector-wise-impact-explained/articleshow/129098557.cms
+38,diamonds,resource,high-value commodity imported by india for surat manufacturing,https://timesofindia.indiatimes.com/business/india-business/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-indias-economy-sector-wise-impact-explained/articleshow/129098557.cms
+39,polyethylene_polymers,resource,industrial raw material sourced from the middle east,https://timesofindia.indiatimes.com/business/india-business/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-indias-economy-sector-wise-impact-explained/articleshow/129098557.cms
+40,pharmaceuticals,resource,generic medicines and apis exported by india globally,https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/india-pharma-exports-risk-disruption-if-middle-east-conflict-widens/articleshow/129092650.cms
+41,oil_price,economicindicator,global benchmark pricing facing severe upward pressure,https://www.aljazeera.com/economy/2026/3/7/iran-war-is-latest-threat-to-a-global-economy-rattled-by-trump
+42,india_inflation,economicindicator,domestic economic metric impacted by fuel and freight costs,https://thefederal.com/category/business/iran-israel-us-war-strait-of-hormuz-oil-energy-crisis-price-rise-233185
+43,freight_costs,economicindicator,shipping expenses increasing due to war risk and rerouting,https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/india-pharma-exports-risk-disruption-if-middle-east-conflict-widens/articleshow/129092650.cms
+44,remittances,economicindicator,capital transferred by indian diaspora from gcc to domestic economy,https://www.eurasiareview.com/06032026-indias-calculated-diplomacy-in-the-west-asia-crisis-oped/
+45,2026_iran_conflict,event,military escalation causing unprecedented global supply chain shock,https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war
+46,red_sea_crisis,event,sustained militant attacks on commercial shipping altering trade routes,https://en.wikipedia.org/wiki/Red_Sea_crisis
+47,sepehr_energy_jahan,company,iranian military oil sales front company sanctioned by ofac,https://home.treasury.gov/news/press-releases/sb0322
+48,oceanlink_maritime_dmcc,company,uae-based technical manager of multiple shadow fleet vessels,https://home.treasury.gov/news/press-releases/jy2220
+49,rn_ship_management,company,india-based technical manager of shadow fleet tankers,https://home.treasury.gov/news/press-releases/sb0322
+50,mars_investment,company,uae-based front company financing shadow fleet charters,https://home.treasury.gov/news/press-releases/sb0322
+51,luan_bird_shipping,company,uae-based vessel chartering company for iranian oil,https://home.treasury.gov/news/press-releases/sb0322
+52,xin_rui_ji,company,hong kong-based front company receiving iranian oil in china,https://home.treasury.gov/news/press-releases/sb0139
+53,maritime_mutual,company,new zealand-based marine insurer sanctioned by the uk,https://www.insurancejournal.com/news/international/2026/02/24/859374.htm
+54,oje_parvaz_mado_nafar,company,iranian uav engine procurement firm supplying irgc,https://home.treasury.gov/news/press-releases/jy0443
+55,mahan_air,company,iranian airline sanctioned for transporting weapons and operatives,https://home.treasury.gov/news/press-releases/tg1322
+56,yazd_airways,company,subsidiary of mahan air providing support to irgc-qf,https://home.treasury.gov/news/press-releases/sb0322
+57,reliance_industries,company,major indian refining conglomerate operating jamnagar complex,https://ppac.gov.in/infrastructure/installed-refinery-capacity
+58,nayara_energy,company,indian oil refiner operating the vadinar facility,https://ppac.gov.in/infrastructure/installed-refinery-capacity
+59,iocl,company,indian oil corporation limited operating paradip refinery,https://iocl.com/our-upcoming-projects
+60,larsen_and_toubro,company,indian epc major executing infrastructure projects in saudi arabia,https://www.eoiriyadh.gov.in/page/indian-companies-in-saudi-arabia/
+61,tcs,company,indian it services giant providing digital transformation for neom,https://www.setupinsaudi.com/en/expanding-from-india-to-saudi-arabia-key-opportunities-and-business-insights
+62,wipro,company,indian it consulting firm expanding operations in riyadh,https://www.setupinsaudi.com/en/expanding-from-india-to-saudi-arabia-key-opportunities-and-business-insights
+63,shapoorji_pallonji,company,multinational construction firm operating in dubai and riyadh,https://favoritehome.ae/top-10-construction-companies-in-dubai-2025/
+64,sun_pharma,company,leading indian pharmaceutical exporter to global markets,https://pharmetglobal.com/indias-top-10-pharmaceutical-export-powerhouses/
+65,hindustan_aeronautics_limited,company,indian defense contractor establishing joint ventures with israel,https://www.equitymaster.com/detail.asp?date=02/20/2026&story=14&title=5-Defence-Stocks-to-Watch-as-India%2DIsrael-Defence-Ties-Strengthen
+66,dcx_systems,company,indian aerospace electronics firm partnered with israeli defense,https://www.military.com/feature/2026/02/01/india-expands-airpower-through-israeli-aircraft-and-defense-technology-deals.html
+67,israel_aerospace_industries,company,israeli defense firm supplying technology to indian military,https://www.military.com/feature/2026/02/01/india-expands-airpower-through-israeli-aircraft-and-defense-technology-deals.html
+68,maersk,company,global shipping line suspending transits through the strait of hormuz,https://www.indrastra.com/2026/03/strait-of-hormuz-on-brink-de-facto.html
+69,hapag_lloyd,company,global shipping line imposing war risk surcharges,https://www.automotivelogistics.media/supply-chain/iran-conflict-threatens-key-shipping-routes-in-the-middle-east-shippers-halt-operations-reroute-vessels-and-introduce-surcharges/2616951
+70,saudi_aramco,company,saudi arabian state-owned petroleum and natural gas corporation,https://www.indrastra.com/2026/03/strait-of-hormuz-on-brink-de-facto.html
+71,qatarenergy,company,qatari state-owned lng producer declaring force majeure,https://www.indrastra.com/2026/03/strait-of-hormuz-on-brink-de-facto.html
+72,boreas,vessel,shadow fleet crude tanker managed by oceanlink,https://home.treasury.gov/news/press-releases/sb0191
+73,hecate,vessel,comoros-flagged shadow fleet vessel managed by oceanlink,https://home.treasury.gov/news/press-releases/jy2220
+74,hebe,vessel,comoros-flagged vessel managed by oceanlink,https://home.treasury.gov/news/press-releases/jy2220
+75,sobar,vessel,crude oil tanker linked to indian firm rn ship management,https://home.treasury.gov/news/press-releases/sm767
+76,siri,vessel,comoros-flagged tanker obfuscating identity for iranian oil,https://home.treasury.gov/news/press-releases/sb0015
+77,oxis,vessel,cameroon-flagged vessel transporting iranian crude to china,https://home.treasury.gov/news/press-releases/sb0015
+78,panda,vessel,vietnam-flagged shadow fleet tanker involved in sts transfers,https://home.treasury.gov/news/press-releases/jy2777
+79,ocean_koi,vessel,barbados-flagged shadow fleet tanker transporting hsfo,https://home.treasury.gov/news/press-releases/sb0405
+80,hoot,vessel,panama-flagged shadow fleet lpg carrier,https://home.treasury.gov/news/press-releases/sb0405
+81,sea_bird,vessel,palau-flagged lpg tanker managed by horizon harvest shipping,https://ofac.treasury.gov/recent-actions/20260123
+82,avon,vessel,comoros-flagged lpg tanker managed by aayat ship management,https://ofac.treasury.gov/recent-actions/20260123
+83,al_diab_ii,vessel,palau-flagged lpg tanker linked to black stone oil and gas,https://ofac.treasury.gov/recent-actions/20260123
+84,cesaria,vessel,palau-flagged crude oil tanker linked to galeran service corp,https://ofac.treasury.gov/recent-actions/20260123
+85,eastern_hero,vessel,palau-flagged tanker linked to odyssey marine,https://ofac.treasury.gov/recent-actions/20260123
+86,chiron_5,vessel,comoros-flagged products tanker linked to trade bridge global,https://ofac.treasury.gov/recent-actions/20260123
+87,skylight,vessel,tanker carrying indian crew attacked in the strait of hormuz,https://www.thehindu.com/news/national/iran-israel-war-oil-tanker-skylight-attack-strait-of-hormuz/article70695759.ece
+88,cordelia_moon,vessel,tanker transporting russian oil targeted by houthis,https://www.washingtoninstitute.org/policy-analysis/houthi-shipping-attacks-patterns-and-expectations-2025
+89,mv_magic_seas,vessel,greek-operated bulk carrier attacked and sunk by houthis,https://www.hrw.org/news/2025/07/23/yemen-houthis-attacks-on-cargo-ships-apparent-war-crimes
+90,mv_eternity_c,vessel,liberian-flagged commercial vessel attacked by houthis,https://www.hrw.org/news/2025/07/23/yemen-houthis-attacks-on-cargo-ships-apparent-war-crimes

@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-03-07T16:11:29.514347+00:00",
+  "total_generated_edges": 789,
+  "verified": 775,
+  "rejected": 14,
+  "rejected_details": [
+    {
+      "source": "finland",
+      "target": "nato",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.99
+    },
+    {
+      "source": "sweden",
+      "target": "nato",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.99
+    },
+    {
+      "source": "uae",
+      "target": "brics",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.97
+    },
+    {
+      "source": "iran",
+      "target": "brics",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.97
+    },
+    {
+      "source": "egypt",
+      "target": "brics",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.97
+    },
+    {
+      "source": "ethiopia",
+      "target": "brics",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.97
+    },
+    {
+      "source": "saudi_arabia",
+      "target": "brics",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.97
+    },
+    {
+      "source": "iran",
+      "target": "sco",
+      "relationship": "MEMBER_OF",
+      "confidence": 0.97
+    },
+    {
+      "source": "bosphorus_strait",
+      "target": "crude_oil",
+      "relationship": "TRANSPORT_ROUTE_FOR",
+      "confidence": 0.95
+    },
+    {
+      "source": "dp_world",
+      "target": "nhava_sheva_port",
+      "relationship": "OPERATES",
+      "confidence": 0.95
+    },
+    {
+      "source": "india",
+      "target": "rcep",
+      "relationship": "AFFECTS",
+      "confidence": 0.85
+    },
+    {
+      "source": "csa",
+      "target": "tiangong_space_station",
+      "relationship": "OPERATES",
+      "confidence": 0.99
+    },
+    {
+      "source": "william_lai",
+      "target": "taiwan",
+      "relationship": "LEADS",
+      "confidence": 0.99
+    },
+    {
+      "source": "india",
+      "target": "npt",
+      "relationship": "AFFECTS",
+      "confidence": 0.9
+    }
+  ]
+}

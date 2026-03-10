@@ -1,0 +1,666 @@
+{
+  "answer": "Iran-USA tensions will likely increase India's oil imports costs and inflation due to the potential disruption of oil supplies through the Strait of Hormuz. As Iran and the USA are in conflict, there is a risk of the Strait of Hormuz being closed, which would lead to an oil supply shock and increased oil prices. This, in turn, would affect India's import bill, inflation, and currency exchange rate. The evidence suggests that India imports approximately 85% of its crude oil needs, and the Strait of Hormuz is a critical transport route for India's oil and LNG imports. Therefore, any disruption to the Strait of Hormuz would have a significant impact on India's energy security and economy.",
+  "causal_chain": [
+    "Step 1: Iran-USA tensions lead to a potential disruption of the Strait of Hormuz (iran -[CONFLICT_WITH]-> usa, confidence=0.85).",
+    "Step 2: The disruption of the Strait of Hormuz leads to an oil supply shock (iran -[DISRUPTS]-> strait of hormuz, confidence=0.80).",
+    "Step 3: The oil supply shock leads to increased oil prices (Oil_Supply_Shock -[AFFECTS]-> Oil Price, confidence=0.00).",
+    "Step 4: The increased oil prices affect India's import bill (Oil Price -[AFFECTS]-> Import Bill, confidence=0.00).",
+    "Step 5: The increased import bill leads to higher inflation in India (crude oil -[AFFECTS]-> inflation, confidence=0.90)."
+  ],
+  "evidence": [
+    {
+      "subject": "iran",
+      "relationship": "CONFLICT_WITH",
+      "object": "usa",
+      "confidence": 0.85,
+      "source_url": "None"
+    },
+    {
+      "subject": "iran",
+      "relationship": "DISRUPTS",
+      "object": "strait of hormuz",
+      "confidence": 0.8,
+      "source_url": "None"
+    },
+    {
+      "subject": "strait of hormuz",
+      "relationship": "TRANSPORT_ROUTE_FOR",
+      "object": "crude oil",
+      "confidence": 0.91,
+      "source_url": "None"
+    },
+    {
+      "subject": "india",
+      "relationship": "IMPORTS",
+      "object": "crude oil",
+      "confidence": 0.89,
+      "source_url": "None"
+    },
+    {
+      "subject": "crude oil",
+      "relationship": "AFFECTS",
+      "object": "inflation",
+      "confidence": 0.9,
+      "source_url": "None"
+    }
+  ],
+  "overall_confidence": 0.8,
+  "uncertainties": [
+    "The confidence score for the relationship between Oil_Supply_Shock and Oil Price is 0.00, which indicates a lack of trust in this specific relationship."
+  ],
+  "key_impacts": [
+    {
+      "domain": "energy",
+      "severity": "high",
+      "description": "Potential disruption of oil supplies through the Strait of Hormuz"
+    },
+    {
+      "domain": "inflation",
+      "severity": "high",
+      "description": "Increased oil prices leading to higher inflation in India"
+    },
+    {
+      "domain": "currency",
+      "severity": "medium",
+      "description": "Depreciation of the Indian rupee due to increased import bill"
+    },
+    {
+      "domain": "industrial_production",
+      "severity": "medium",
+      "description": "Reduced industrial output due to higher input costs"
+    }
+  ],
+  "subgraph": {
+    "nodes": [
+      {
+        "name": "Strait of Hormuz",
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "name": "Crude Oil",
+        "labels": [
+          "Resource"
+        ]
+      },
+      {
+        "name": "Iran",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "USA",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "India",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "Inflation",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "Oil Price",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "crude oil",
+        "labels": [
+          "Resource"
+        ]
+      },
+      {
+        "name": "LNG",
+        "labels": [
+          "Resource"
+        ]
+      },
+      {
+        "name": "Qatar",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "Saudi Arabia",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "UAE",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "Iraq",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "Energy_Market_Volatility",
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "name": "Oil_Supply_Shock",
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "name": "Iran_US_Tensions",
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "name": "Import Bill",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "strait of hormuz",
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "name": "usa",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "iran",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "lng",
+        "labels": [
+          "Resource"
+        ]
+      },
+      {
+        "name": "opec",
+        "labels": [
+          "Organization"
+        ]
+      },
+      {
+        "name": "saudi arabia",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "iraq",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "name": "currency exchange rate",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "industrial production",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "inflation",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "iran-us standoff",
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "name": "high energy prices",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "indian rupee",
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "name": "Current Account Deficit",
+        "labels": [
+          "Indicator"
+        ]
+      },
+      {
+        "name": "Indian Rupee",
+        "labels": [
+          "Indicator"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "Strait of Hormuz",
+        "target": "Crude Oil",
+        "relationship": "TRANSPORT_ROUTE_FOR",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Iran",
+        "target": "Strait of Hormuz",
+        "relationship": "CONTROLS_ACCESS_TO",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Iran",
+        "target": "USA",
+        "relationship": "CONFLICT_WITH",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "India",
+        "target": "Crude Oil",
+        "relationship": "IMPORTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Inflation",
+        "target": "India",
+        "relationship": "AFFECTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Oil Price",
+        "target": "Inflation",
+        "relationship": "AFFECTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "crude oil",
+        "target": "Inflation",
+        "relationship": "AFFECTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "LNG",
+        "target": "India",
+        "relationship": "IMPORTED_BY",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Qatar",
+        "target": "LNG",
+        "relationship": "EXPORTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Saudi Arabia",
+        "target": "Crude Oil",
+        "relationship": "EXPORTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "UAE",
+        "target": "Crude Oil",
+        "relationship": "EXPORTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Iraq",
+        "target": "Crude Oil",
+        "relationship": "EXPORTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Crude Oil",
+        "target": "Oil Price",
+        "relationship": "INFLUENCES",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Energy_Market_Volatility",
+        "target": "Oil Price",
+        "relationship": "AFFECTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Oil_Supply_Shock",
+        "target": "Oil Price",
+        "relationship": "AFFECTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Iran_US_Tensions",
+        "target": "Oil_Supply_Shock",
+        "relationship": "CAUSES",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "Oil Price",
+        "target": "Import Bill",
+        "relationship": "AFFECTS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      },
+      {
+        "source": "india",
+        "target": "crude oil",
+        "relationship": "IMPORTS",
+        "confidence": 0.8874999999999998,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"India imports approximately 85% of its crude oil needs, making it the world's third-largest oil importer.\"}]"
+      },
+      {
+        "source": "strait of hormuz",
+        "target": "india",
+        "relationship": "CRITICAL_FOR",
+        "confidence": 0.9033333333333333,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"India receives a significant share of its oil and LNG imports through the Strait of Hormuz corridor.\"}]"
+      },
+      {
+        "source": "usa",
+        "target": "strait of hormuz",
+        "relationship": "THREATENS",
+        "confidence": 0.7,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Military confrontation between USA and Iran risks disruption of shipping through the Strait of Hormuz.\"}]"
+      },
+      {
+        "source": "iran",
+        "target": "strait of hormuz",
+        "relationship": "THREATENS",
+        "confidence": 0.7875000000000001,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Iran has historically threatened to close the Strait of Hormuz in response to sanctions and military pressure.\"}]"
+      },
+      {
+        "source": "iran",
+        "target": "strait of hormuz",
+        "relationship": "DISRUPTS",
+        "confidence": 0.8,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/iran-us-oil-india\", \"snippet\": \"The conflict, centered around Iran's nuclear program and US sanctions, has raised fears of a potential disruption to oil flows through the Strait of Hormuz, through which approximately 20% of the world's oil supply transits daily.\"}]"
+      },
+      {
+        "source": "strait of hormuz",
+        "target": "crude oil",
+        "relationship": "TRANSPORT_ROUTE_FOR",
+        "confidence": 0.9133333333333334,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Approximately 20-21 million barrels per day of oil flow through the Strait of Hormuz, roughly 20% of global supply.\"}]"
+      },
+      {
+        "source": "strait of hormuz",
+        "target": "lng",
+        "relationship": "TRANSPORT_ROUTE_FOR",
+        "confidence": 0.9,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"About 25% of global LNG trade transits through the Strait of Hormuz.\"}]"
+      },
+      {
+        "source": "strait of hormuz",
+        "target": "india",
+        "relationship": "TRANSPORT_ROUTE_FOR",
+        "confidence": 0.9,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/hormuz-shipping-insurance\", \"snippet\": \"India, which depends on the Strait for over 60% of its oil imports and significant LNG shipments, faces elevated supply chain risks.\"}]"
+      },
+      {
+        "source": "crude oil",
+        "target": "india",
+        "relationship": "AFFECTS",
+        "confidence": 0.85,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/iran-us-oil-india\", \"snippet\": \"India, which imports roughly 85% of its crude oil needs, stands to be significantly affected.\"}]"
+      },
+      {
+        "source": "iran",
+        "target": "crude oil",
+        "relationship": "EXPORTS",
+        "confidence": 0.92,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Iran holds the world's fourth-largest proven oil reserves and is a significant crude oil exporter.\"}]"
+      },
+      {
+        "source": "opec",
+        "target": "crude oil",
+        "relationship": "INFLUENCES",
+        "confidence": 0.92,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"OPEC production decisions directly influence global crude oil supply and pricing.\"}]"
+      },
+      {
+        "source": "saudi arabia",
+        "target": "crude oil",
+        "relationship": "EXPORTS",
+        "confidence": 0.95,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Saudi Arabia is the world's largest crude oil exporter and India's top oil supplier.\"}]"
+      },
+      {
+        "source": "iraq",
+        "target": "crude oil",
+        "relationship": "EXPORTS",
+        "confidence": 0.9,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Iraq is India's largest crude oil supplier by volume.\"}]"
+      },
+      {
+        "source": "crude oil",
+        "target": "currency exchange rate",
+        "relationship": "AFFECTS",
+        "confidence": 0.85,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Higher crude oil prices widen India's current account deficit, putting depreciation pressure on the Indian rupee.\"}]"
+      },
+      {
+        "source": "crude oil",
+        "target": "industrial production",
+        "relationship": "AFFECTS",
+        "confidence": 0.82,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Rising oil prices increase input costs for manufacturing, reducing industrial output in oil-importing nations.\"}]"
+      },
+      {
+        "source": "crude oil",
+        "target": "inflation",
+        "relationship": "AFFECTS",
+        "confidence": 0.9,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"Crude oil price increases contribute directly to inflation in import-dependent economies through higher fuel and transport costs.\"}]"
+      },
+      {
+        "source": "crude oil",
+        "target": "inflation",
+        "relationship": "CAUSES",
+        "confidence": 0.85,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/india-inflation-oil\", \"snippet\": \"India's consumer price inflation accelerated to 7.2% year-on-year in November, breaching the Reserve Bank of India's upper tolerance band of 6%, driven primarily by surging energy costs linked to the Iran-US standoff.\"}]"
+      },
+      {
+        "source": "iran-us standoff",
+        "target": "india",
+        "relationship": "INFLUENCES",
+        "confidence": 0.8,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/india-inflation-oil\", \"snippet\": \"India's consumer price inflation accelerated to 7.2% year-on-year in November, breaching the Reserve Bank of India's upper tolerance band of 6%, driven primarily by surging energy costs linked to the Iran-US standoff.\"}]"
+      },
+      {
+        "source": "high energy prices",
+        "target": "india",
+        "relationship": "IMPACTS",
+        "confidence": 0.85,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/india-alternative-energy\", \"snippet\": \"The Federation of Indian Chambers of Commerce warned that sustained high energy prices could reduce GDP growth by 0.5-0.8 percentage points in the current fiscal year.\"}]"
+      },
+      {
+        "source": "india",
+        "target": "lng",
+        "relationship": "IMPORTS",
+        "confidence": 0.87,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"India is among the top LNG importers globally, with imports supplying nearly half its natural gas needs.\"}]"
+      },
+      {
+        "source": "india",
+        "target": "inflation",
+        "relationship": "AFFECTS",
+        "confidence": 0.9,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/india-inflation-oil\", \"snippet\": \"India's consumer price inflation accelerated to 7.2% year-on-year in November, breaching the Reserve Bank of India's upper tolerance band of 6%, driven primarily by surging energy costs linked to the Iran-US standoff.\"}]"
+      },
+      {
+        "source": "india",
+        "target": "indian rupee",
+        "relationship": "AFFECTS",
+        "confidence": 0.8,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/india-alternative-energy\", \"snippet\": \"India's oil import bill has surged 35% year-on-year, contributing to a 2.8% depreciation of the Indian rupee against the US dollar in the past quarter alone.\"}]"
+      },
+      {
+        "source": "usa",
+        "target": "iran",
+        "relationship": "CONFLICT_WITH",
+        "confidence": 0.85,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://datacommons.org\", \"snippet\": \"USA-Iran tensions have persisted over Iran's nuclear program, regional influence, and US sanctions regime.\"}]"
+      },
+      {
+        "source": "iran",
+        "target": "usa",
+        "relationship": "CONFLICT_WITH",
+        "confidence": 0.8500000000000001,
+        "status": "active",
+        "trust": "trusted",
+        "sources": "[{\"url\": \"https://example.com/sample/iran-us-oil-india\", \"snippet\": \"Escalating tensions between Iran and the United States have pushed global crude oil prices to their highest levels in over a year, with Brent crude surging past $95 per barrel.\"}]"
+      },
+      {
+        "source": "usa",
+        "target": "iran",
+        "relationship": "AFFECTS",
+        "confidence": 0.8,
+        "status": "active",
+        "trust": "untrusted",
+        "sources": "[{\"url\": \"https://example.com/sample/iran-us-oil-india\", \"snippet\": \"The conflict, centered around Iran's nuclear program and US sanctions, has raised fears of a potential disruption to oil flows through the Strait of Hormuz, through which approximately 20% of the world's oil supply transits daily.\"}]"
+      },
+      {
+        "source": "Current Account Deficit",
+        "target": "Indian Rupee",
+        "relationship": "WEAKENS",
+        "confidence": null,
+        "status": null,
+        "trust": "untrusted",
+        "sources": null
+      }
+    ]
+  },
+  "question": "How will Iran-USA tensions affect India's oil imports and inflation?",
+  "timestamp": "2026-03-07T13:03:13.289547+00:00"
+}

@@ -1,0 +1,52 @@
+source_name,country,category,rss_url,language,credibility_score,update_frequency,notes
+Times of India World,India,Geopolitics,https://timesofindia.indiatimes.com/rssfeeds/296589292.cms,English,88,high,Indian perspective on global news
+Indian Express World,India,Geopolitics,https://indianexpress.com/section/world/feed/,English,89,high,Global news for the Indian subcontinent
+Indian Express Tech,India,Technology,https://indianexpress.com/section/technology/feed/,English,88,high,South Asian tech and hardware
+BBC World,UK,Geopolitics,http://feeds.bbci.co.uk/news/world/rss.xml,English,97,very_high,International reporting
+Al Jazeera World,Qatar,Geopolitics,https://www.aljazeera.com/xml/rss/all.xml,English,94,high,Middle East and global affairs
+New York Times World,USA,Geopolitics,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,English,95,very_high,American perspective on global affairs
+New York Times Business,USA,Economics,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,English,94,high,Global corporate and economic shifts
+Financial Times Global,UK,Economics,https://www.ft.com/?format=rss,English,96,high,Global finance and markets
+The Guardian World,UK,Geopolitics,http://www.theguardian.com/world/rss,English,92,high,European and global politics
+Wall Street Journal World,USA,Geopolitics,https://feeds.a.dj.com/rss/RSSWorldNews.xml,English,94,high,Global affairs with market focus
+Wall Street Journal Markets,USA,Economics,https://feeds.a.dj.com/rss/RSSMarketsMain.xml,English,95,very_high,Real-time financial market movements
+CNBC World,USA,Economics,https://www.cnbc.com/id/100727362/device/rss/rss.html,English,92,very_high,Real-time global market news
+Indian Express Business,India,Economics,https://indianexpress.com/section/business/feed/,English,88,high,Indian corporate and global market impacts
+Hindustan Times International,India,Geopolitics,https://www.hindustantimes.com/feeds/rss/ht-insight/international-affairs/rssfeed.xml,English,87,high,Asian and international diplomatic relations
+NDTV World,India,Geopolitics,https://feeds.feedburner.com/ndtvnews-world-news,English,86,high,Global news broadcasts and updates
+NDTV Profit,India,Economics,https://feeds.feedburner.com/ndtvprofit-latest,English,86,high,Indian financial markets and global correlations
+NDTV Tech,India,Technology,https://feeds.feedburner.com/gadgets360-latest,English,86,high,Consumer electronics and regional tech trends
+The Hindu International,India,Geopolitics,https://www.thehindu.com/news/international/feeder/default.rss,English,91,high,Rigorous geopolitical reporting from India
+The Hindu Business,India,Economics,https://www.thehindu.com/business/feeder/default.rss,English,90,high,Macroeconomics and Indian trade policy
+The Hindu Science,India,Technology,https://www.thehindu.com/sci-tech/science/feeder/default.rss,English,91,medium,Scientific advancements and tech policy
+Defense News Global,USA,Defense,https://www.defensenews.com/arc/outboundfeeds/rss/category/global/,English,94,high,International military and procurement
+Defense News Pentagon,USA,Defense,https://www.defensenews.com/arc/outboundfeeds/rss/category/pentagon/,English,95,high,US military policy and strategic shifts
+TechCrunch,USA,Technology,https://techcrunch.com/feed/,English,90,very_high,Startup funding and emerging technologies
+Wired Science,USA,Technology,https://www.wired.com/feed/category/science/latest/rss,English,92,high,Tech paradigms and scientific research
+Climate Home News,UK,Climate,https://www.climatechangenews.com/feed/,English,93,medium,Global climate politics and carbon markets
+BBC Technology,UK,Technology,http://feeds.bbci.co.uk/news/technology/rss.xml,English,96,high,Global tech regulation and innovation
+BBC Business,UK,Economics,http://feeds.bbci.co.uk/news/business/rss.xml,English,96,high,Global business and economics
+The Guardian Business,UK,Economics,https://www.theguardian.com/uk/business/rss,English,92,high,UK and global business reporting
+The Guardian Science,UK,Technology,http://www.theguardian.com/science/rss,English,92,high,Scientific research and breakthroughs
+India Economy News,India,Economics,https://news.google.com/rss/search?q=india+economy+GDP+growth&hl=en-IN&gl=IN&ceid=IN:en,English,90,high,Indian economic coverage aggregated
+India Defense News,India,Defense,https://news.google.com/rss/search?q=india+defense+military+DRDO&hl=en-IN&gl=IN&ceid=IN:en,English,88,high,Indian defense developments
+India Foreign Policy,India,Geopolitics,https://news.google.com/rss/search?q=india+foreign+policy+diplomacy+modi&hl=en-IN&gl=IN&ceid=IN:en,English,90,high,India diplomatic relations
+Global Oil Energy,Global,Economics,https://news.google.com/rss/search?q=crude+oil+price+OPEC+energy+market&hl=en-IN&gl=IN&ceid=IN:en,English,90,high,Oil and energy markets
+Climate Change Global,Global,Climate,https://news.google.com/rss/search?q=climate+change+emissions+renewable+energy&hl=en-IN&gl=IN&ceid=IN:en,English,90,medium,Global climate developments
+Semiconductor Tech,Global,Technology,https://news.google.com/rss/search?q=semiconductor+chip+TSMC+Intel+foundry&hl=en-IN&gl=IN&ceid=IN:en,English,88,high,Semiconductor and chip developments
+BRICS Geopolitics,Global,Geopolitics,https://news.google.com/rss/search?q=BRICS+summit+expansion+geopolitics&hl=en-IN&gl=IN&ceid=IN:en,English,88,medium,BRICS alliance and multipolarity
+Russia Ukraine War,Global,Geopolitics,https://news.google.com/rss/search?q=russia+ukraine+war+frontline&hl=en-IN&gl=IN&ceid=IN:en,English,92,very_high,Russia-Ukraine conflict
+Iran Nuclear Sanctions,Global,Geopolitics,https://news.google.com/rss/search?q=iran+nuclear+sanctions+USA+tensions&hl=en-IN&gl=IN&ceid=IN:en,English,90,high,Iran nuclear program and sanctions
+NATO Defense,Global,Defense,https://news.google.com/rss/search?q=NATO+military+defense+alliance&hl=en-IN&gl=IN&ceid=IN:en,English,92,high,NATO operations and defense policy
+Global Trade Tariffs,Global,Economics,https://news.google.com/rss/search?q=trade+war+tariffs+sanctions+WTO&hl=en-IN&gl=IN&ceid=IN:en,English,90,high,Trade conflicts and tariff policies
+South China Sea,Global,Geopolitics,https://news.google.com/rss/search?q=south+china+sea+taiwan+strait+tensions&hl=en-IN&gl=IN&ceid=IN:en,English,90,high,Indo-Pacific territorial disputes
+Space Technology,Global,Technology,https://news.google.com/rss/search?q=ISRO+NASA+SpaceX+satellite+launch&hl=en-IN&gl=IN&ceid=IN:en,English,88,high,Space technology and launches
+Livemint Economy,India,Economics,https://www.livemint.com/rss/economy,English,89,high,Indian economic policy and macro analysis
+Livemint Markets,India,Economics,https://www.livemint.com/rss/markets,English,89,high,Stock market and financial instruments
+Money Control News,India,Economics,https://www.moneycontrol.com/rss/latestnews.xml,English,87,very_high,Indian financial markets real-time
+Economic Times Markets,India,Economics,https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms,English,88,very_high,Indian market analysis
+Economic Times Economy,India,Economics,https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms,English,88,high,Indian economic and fiscal policy
+Business Standard Economy,India,Economics,https://www.business-standard.com/rss/economy-policy-10200.rss,English,88,high,Indian business and policy
+Dawn News Pakistan,Pakistan,Geopolitics,https://www.dawn.com/feeds/home,English,85,high,Pakistani perspective on South Asian affairs
+South China Morning Post,China,Geopolitics,https://www.scmp.com/rss/91/feed,English,89,high,China and Asia-Pacific geopolitics
+Japan Times,Japan,Geopolitics,https://www.japantimes.co.jp/feed/,English,88,high,Japanese and East Asian perspective
